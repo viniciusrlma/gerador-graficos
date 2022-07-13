@@ -8,9 +8,9 @@ Neste documento irei comentar sobre: como rodar o projeto, pontuando algumas das
 
 Durante o desenvolvimento deste projeto, foquei em alguns pontos:
 
--Ter um versionamento bem documentado, com commits claros e autoexplicativos.
--Desenvolver, através das boas práticas, um código legível, organizado e com uma boa arquitetura de maneira a facilitar a escalabilidade e manutenção da aplicação.
--Desenvolver uma UI responsiva e uma UX fluída, sendo acessível à todos os dispositivos.
+- Ter um versionamento bem documentado, com commits claros e autoexplicativos.
+- Desenvolver, através das boas práticas, um código legível, organizado e com uma boa arquitetura de maneira a facilitar a escalabilidade e manutenção da aplicação.
+- Desenvolver uma UI responsiva e uma UX fluída, sendo acessível à todos os dispositivos.
 
 ## Principais ferramentas utilizadas
 
