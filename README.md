@@ -14,9 +14,9 @@ Durante o desenvolvimento deste projeto, foquei em alguns pontos:
 
 ## Principais ferramentas utilizadas
 
--ReactJS
--Styled Components
--Axios
+- ReactJS
+- Styled Components
+- Axios
 
 ## Arquitetura
 
