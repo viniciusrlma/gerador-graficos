@@ -18,7 +18,7 @@ Durante o desenvolvimento deste projeto, foquei em alguns pontos:
 -Styled Components
 -Axios
 
-##Arquitetura
+## Arquitetura
 
 A respeito da arquitetura de pastas, o projeto seque uma estrutura basica, onde:
   - components: arquivos de componentes reutilizáveis.
